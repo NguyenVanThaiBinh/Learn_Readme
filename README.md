@@ -32,7 +32,7 @@
 # Cài đặt sử dụng
 [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
- - Xem Backlog dự án tại [Link Backlog](https://docs.google.com/spreadsheets/d/1wYoVYkU4q8mx8g0fvRjhaQA4WZCtiU0T/edit?usp=sharing&ouid=105280051025603960971&rtpof=true&sd=true)
+ - Xem Backlog dự án tại [Link Backlog]( target="_blank" https://docs.google.com/spreadsheets/d/1wYoVYkU4q8mx8g0fvRjhaQA4WZCtiU0T/edit?usp=sharing&ouid=105280051025603960971&rtpof=true&sd=true)
  - Clone dự án theo  [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
  - Cấu hình liên kết với database tại mục ' application.properties '
  - Import dữ liệu với file data.sql vào hệ quản trị cơ sở dữ liệu.

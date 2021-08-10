@@ -14,9 +14,6 @@
 
 
 # Nội dung - Mục lục
-
-
-- [Tên Project](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#L3)
 - [Demo-Preview](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L13)
 - [Nội dung](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L22)
 - [Cài đặt ](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
@@ -24,6 +21,12 @@
 - [Bản quyền](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
 - [Footer](#footer)
 
+# Môi trường và các công cụ sử dụng
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
+
+- Sử dụng phần mềm : IntelliJ IDEA
+- Framework sử dụng Srping Framework: Spring Boot, Spring Data JPA, Spring Security...
+- Một số khác: Ajax, Email, Recaptcha...
 # Cài đặt sử dụng
 
  - Clone dự án theo  [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
@@ -31,29 +34,6 @@
  - Import dữ liệu với file data.sql vào hệ quản trị cơ sở dữ liệu.
  - Tài khoản Admin: CMND đăng nhập: 1 , Mật khẩu 1.
  - Tài khoản trang điểm tiêm: CMND đăng nhập: 10 , Mật khẩu 1.
-
-<!-- 
-
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
-
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
-
-Following this steps, **they should be able to run this in their device.**
-
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
-
-<!-- Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
-
-# Usage
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
-
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Development
 [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)

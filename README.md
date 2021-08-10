@@ -78,7 +78,7 @@ You could add how people can sponsor your project in this section. Add your patr
 A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
 
 ### Adding new features or fixing bugs
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#n%E1%BB%99i-dung)
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung)
 
 <!-- This is to give people an idea how they can raise issues or feature requests in your projects. 
 

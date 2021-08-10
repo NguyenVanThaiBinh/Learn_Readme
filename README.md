@@ -22,12 +22,14 @@
 - [Footer](#footer)
 
 # Môi trường và các công cụ sử dụng
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
+
 
 - Sử dụng phần mềm : IntelliJ IDEA
 - Framework sử dụng Srping Framework: Spring Boot, Spring Data JPA, Spring Security...
 - Một số khác: Ajax, Email, Recaptcha...
 # Cài đặt sử dụng
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
+
 
  - Clone dự án theo  [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
  - Cấu hình liên kết với database tại mục ' application.properties '

@@ -14,12 +14,13 @@
 
 
 # Nội dung - Mục lục
-- [Demo-Preview](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L13)
+- [Demo-Preview]()
 - [Nội dung](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L22)
-- [Cài đặt ](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
-- [Công cụ sử dụng](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
+- [Môi trường và công cụ ](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
+- [Cài đặt sử dụng](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
+- [Tác giả](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
 - [Bản quyền](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
-- [Footer](#footer)
+- [Những điều học được](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
 
 # Môi trường và các công cụ sử dụng
 
@@ -30,7 +31,6 @@
 
 - Một số khác: Ajax, Email, Recaptcha...
 # Cài đặt sử dụng
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
  - Xem Backlog dự án tại [Link Backlog]( https://docs.google.com/spreadsheets/d/1wYoVYkU4q8mx8g0fvRjhaQA4WZCtiU0T/edit?usp=sharing&ouid=105280051025603960971&rtpof=true&sd=true)
  - Clone dự án theo  [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
@@ -47,7 +47,6 @@
 - Hoàng Long [Github](https://github.com/hoanglong0909?tab=repositories)
 
 # Bản quyền template - copy
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 - Bản quyền template copy trang [VNVC](https://vnvc.vn) 
 # Những điều học được

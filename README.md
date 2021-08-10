@@ -100,7 +100,7 @@ I personally add the name of the license and provide a link to it like below. --
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
 # Footer
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/master/README.md#L3)
+<!-- [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#L3) -->
 
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
 

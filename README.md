@@ -39,40 +39,19 @@
  - Tài khoản Admin: CMND đăng nhập: 1 , Mật khẩu 1.
  - Tài khoản trang điểm tiêm: CMND đăng nhập: 10 , Mật khẩu 1.
 
-# Development
+# Tác giả
 [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
-<!-- This is the place where you give instructions to developers on how to modify the code.
-
-You could give **instructions in depth** of **how the code works** and how everything is put together.
-
-You could also give specific instructions to how they can setup their development environment.
-
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
-
-# Contribute
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
-
-<!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
-
-Also this shows how you can add subsections within a section. -->
-
-
-
+- Nguyễn Văn Thái Bình [Github](https://github.com/NguyenVanThaiBinh?tab=repositories)
+- Lại Phước Khánh [Github](https://github.com/phuockhanh?tab=repositories)
+- Hoàng Long [Github](https://github.com/hoanglong0909?tab=repositories)
 
 # Bản quyền template - copy
 [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 - Bản quyền template copy trang [VNVC](https://vnvc.vn) 
-# Footer
+# Những điều học được
  [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c) 
 
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
-
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-<!-- Add the footer here -->
-
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+- Học cách làm việc nhóm, phối hợp cách thành viên thông qua mô hình Srum.
+- Nâng cao sự tìm tòi, học hỏi của mỗi cá nhân.

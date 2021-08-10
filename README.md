@@ -46,12 +46,12 @@ To use this project, first clone the repo on your device using the command below
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
 # Usage
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#n%E1%BB%99i-dung)
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Development
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#n%E1%BB%99i-dung)
+[(Đi đến mục lục)]https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 <!-- This is the place where you give instructions to developers on how to modify the code.
 
@@ -62,7 +62,7 @@ You could also give specific instructions to how they can setup their developmen
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
 
 # Contribute
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#n%E1%BB%99i-dung)
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
 
@@ -89,7 +89,7 @@ Personally and by standard, you should use a [issue template](https://github.com
 You could also add contact details for people to get in touch with you regarding your project. -->
 
 # License
-[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#n%E1%BB%99i-dung)
+[(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)
 
 <!-- Adding the license to README is a good practice so that people can easily refer to it.
 

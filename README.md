@@ -26,7 +26,8 @@
 
 # Cài đặt sử dụng
 
-        - Clone dự án theo [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
+        - Clone dự án theo 
+        [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
         - Cấu hình liên kết với database tại mục ' application.properties '
         - Import dữ liệu với file data.sql vào hệ quản trị cơ sở dữ liệu.
         - Tài khoản Admin: CMND đăng nhập: 1 , Mật khẩu 1.

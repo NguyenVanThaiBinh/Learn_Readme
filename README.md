@@ -25,7 +25,9 @@
 
 
 - Sử dụng phần mềm : IntelliJ IDEA
-- Framework sử dụng Srping Framework: Spring Boot, Spring Data JPA, Spring Security...
+
+- Framework sử dụng Spring Framework: Spring Boot, Spring Data JPA, Spring Security...
+
 - Một số khác: Ajax, Email, Recaptcha...
 # Cài đặt sử dụng
 [(Đi đến mục lục)](https://github.com/NguyenVanThaiBinh/Learn_Readme/blob/master/README.md#n%E1%BB%99i-dung---m%E1%BB%A5c-l%E1%BB%A5c)

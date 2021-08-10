@@ -24,10 +24,15 @@
 - [Bản quyền](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/edit/master/README.md#L3)
 - [Footer](#footer)
 
-# Installation
-[(Back to top)](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#L3)
+# Cài đặt sử dụng
 
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
+        - Clone dự án theo [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
+        - Cấu hình liên kết với database tại mục ' application.properties '
+        - Import dữ liệu với file data.sql vào hệ quản trị cơ sở dữ liệu.
+        - Tài khoản Admin: CMND đăng nhập: 1 , Mật khẩu 1.
+        - Tài khoản trang điểm tiêm: CMND đăng nhập: 10 , Mật khẩu 1.
+
+<!-- 
 
 The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 

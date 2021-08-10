@@ -28,6 +28,7 @@
 
         - Clone dự án theo 
         [Link Github](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5.git)
+ - [Tên Project](https://github.com/NguyenVanThaiBinh/Project_Vaccine_Module_5/blob/master/README.md#L3)
         - Cấu hình liên kết với database tại mục ' application.properties '
         - Import dữ liệu với file data.sql vào hệ quản trị cơ sở dữ liệu.
         - Tài khoản Admin: CMND đăng nhập: 1 , Mật khẩu 1.
